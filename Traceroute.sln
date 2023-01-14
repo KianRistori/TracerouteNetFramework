@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Traceroute", "Traceroute\Traceroute.csproj", "{950DAAF3-EAB7-45F6-AEFC-DE56F64E0A24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{950DAAF3-EAB7-45F6-AEFC-DE56F64E0A24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{950DAAF3-EAB7-45F6-AEFC-DE56F64E0A24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{950DAAF3-EAB7-45F6-AEFC-DE56F64E0A24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{950DAAF3-EAB7-45F6-AEFC-DE56F64E0A24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC617EF4-3A27-4CA2-8237-1E795225691A}
+	EndGlobalSection
+EndGlobal
